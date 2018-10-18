@@ -7,7 +7,8 @@ var s = '小北' ;
 greet(s);
 
 // readfile('read');
-readfile('write','小北最帅，6不6');
+readfile.readFile('write','小北最帅，6不6');
+readfile.fileStream()
 //
 //
 
